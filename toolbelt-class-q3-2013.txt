@@ -1,2 +1,3 @@
 Jason Noble, Instructor
 Johnny Appleseed, Student
+Ted Smith, Student
